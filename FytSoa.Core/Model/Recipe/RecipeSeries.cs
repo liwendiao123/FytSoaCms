@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FytSoa.Core.Model.Recipe
+namespace FytSoa.Core.Model
 {
 
     /// <summary>

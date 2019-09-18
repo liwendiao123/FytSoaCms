@@ -1,6 +1,6 @@
 ﻿using FytSoa.Common;
 using FytSoa.Core.Model.Cms;
-using FytSoa.Core.Model.Recipe;
+using FytSoa.Core.Model;
 using FytSoa.Core.Model.Sys;
 using FytSoa.Core.Model.Wx;
 using SqlSugar;

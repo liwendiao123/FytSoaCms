@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FytSoa.Core.Model.Recipe
+namespace FytSoa.Core.Model
 {
 
     /// <summary>
@@ -69,6 +69,10 @@ namespace FytSoa.Core.Model.Recipe
         /// </summary>
         public string Engineer { get; set; }
 
+        /// <summary>
+        /// 显示顺序
+        /// </summary>
+        public int DisplayOrder { get; set; }
 
         /// <summary>
         /// Desc:状态 状态

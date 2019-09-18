@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="DotNetCore.NPOI" Version="1.2.1" />
+    <PackageReference Include="NPOI" Version="2.4.1" />
+    <PackageReference Include="NPOI.Core.Extension" Version="1.0.0" />
+    <PackageReference Include="OpenXmlPowerTools-NetStandard" Version="4.4.21" />
     <PackageReference Include="Qiniu.Shared" Version="7.2.15" />
   </ItemGroup>
 
